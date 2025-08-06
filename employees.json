@@ -1,0 +1,133 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": ["Python", "AWS", "React"],
+      "experience_years": 5,
+      "projects": ["Healthcare App", "E-commerce"],
+      "availability": "available"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "skills": ["Docker", "Kubernetes", "AWS"],
+      "experience_years": 4,
+      "projects": ["Finance Dashboard"],
+      "availability": "not available"
+    },
+    {
+      "id": 3,
+      "name": "Claire Lee",
+      "skills": ["React Native", "Firebase", "Python"],
+      "experience_years": 3,
+      "projects": ["Travel App", "Healthcare App"],
+      "availability": "available"
+    },
+{
+      "id": 4,
+      "name": "Sarah Chen",
+      "skills": ["Reacg Native", "Firebase", "Google Maps API"],
+      "experience_years": 3,
+      "projects": ["Location-Based Delivery App", "Tourist Guide App"],
+      "availability": "available"
+    },
+{
+      "id": 5,
+      "name": "David Lee",
+      "skills": ["TensorFlow", "OpenCV", "Python"],
+      "experience_years": 2,
+      "projects": ["Face Recognition System", "Real-Time Object Detection"],
+      "availability": "available"
+    },
+{
+      "id": 6,
+      "name": "Maria Rodriguez",
+      "skills": ["AWS", "Docker", "Kubernetes"],
+      "experience_years": 4,
+      "projects": ["Scalable Web App", "DevOps CI/CD Pipeline"],
+      "availability": "not available"
+    },
+{
+      "id": 7,
+      "name": "John Smith",
+      "skills": ["Python", "Flask", "MongoDB"],
+      "experience_years": 3,
+      "projects": ["Student Management System", "Feedback Collection App"],
+      "availability": "available"
+    },
+{
+      "id": 8,
+      "name": "Emily Davis",
+      "skills": ["React Native", "Firebase", "Nose.js"],
+      "experience_years": 5,
+      "projects": ["Chat Application", "Online Grocery App"],
+      "availability": "not available"
+    },
+{
+      "id": 9,
+      "name": "Michaek Brown",
+      "skills": ["Python", "AWS", "Firebase"],
+      "experience_years": 3,
+      "projects": ["AI-Powered Chatbot", "Smart Agriculture App"],
+      "availability": "not available"
+    },
+{
+      "id": 10,
+      "name": "Alice Johnson",
+      "skills": ["Docker", "Jenkins", "AWS"],
+      "experience_years": 1,
+      "projects": ["Automated Testing Pipeline", "Infrastructure Monitoring System"],
+      "availability": "available"
+    },
+{
+      "id": 11,
+      "name": "Robert Miller",
+      "skills": ["Firestore", "Firebase", "Google Cloud Functions"],
+      "experience_years": 5,
+      "projects": ["Serverless Notification System", "Online Quiz App"],
+      "availability": "available"
+    },
+{
+      "id": 12,
+      "name": "Jane Wilson",
+      "skills": ["React Native", "Redux", "Firebase"],
+      "experience_years": 2,
+      "projects": ["E-commerce Mobile App", "Fitness Tracker"],
+      "availability": "not available"
+    },
+{
+      "id": 13,
+      "name": "Kevin Garcia",
+      "skills": ["Smart Attendance System", "Image-Based Search Engine"],
+      "experience_years": 4,
+      "projects": ["Travel App", "Healthcare App"],
+      "availability": "available"
+    },
+{
+      "id": 14,
+      "name": "Laura Wilson",
+      "skills": ["React", "Tailwind CSS", "Firebase"],
+      "experience_years": 3,
+      "projects": ["Portfolio Website", "Real-Time Polling App"],
+      "availability": "available"
+    },
+{
+      "id": 15,
+      "name": "Chris Taylor",
+      "skills": ["FastAPI", "AWS", "Python"],
+      "experience_years": 5,
+      "projects": ["API for Machine Learning Inference", "Data Analytics Backend"],
+      "availability": "not available"
+    },
+{
+      "id": 16,
+      "name": "Sophia Lee",
+      "skills": ["Docker", "AWS", "GitHub Actions"],
+      "experience_years": 2,
+      "projects": ["CI/CD for Web Application", "Code Quality Automation"],
+      "availability": "available"
+    }
+  ]
+}
+
