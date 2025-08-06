@@ -21,12 +21,12 @@ Everything runs locally — no OpenAI key needed!
 
 ## Project Structure
 
-📁 main.py # FastAPI backend
-📁 app.py # Streamlit chat interface
-📁 embedding.py # FAISS + sentence embedding logic
-📁 llama_api.py # Interface to local Ollama (LLaMA 3)
-📁 employees.json # Sample employee data
-📁 README.md # You're reading this :)
+**📁 main.py** # FastAPI backend
+**📁 app.py** # Streamlit chat interface
+**📁 embedding.py** # FAISS + sentence embedding logic
+**📁 llama_api.py** # Interface to local Ollama (LLaMA 3)
+**📁 employees.json** # Sample employee data
+**📁 README.md** # You're reading this :)
 
 ##  How to Run It Locally
 
