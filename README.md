@@ -19,6 +19,15 @@ The bot understands these queries, searches an employee database, and responds w
 
 Everything runs locally — no OpenAI key needed!
 
+## Project Structure
+
+📁 main.py # FastAPI backend
+📁 app.py # Streamlit chat interface
+📁 embedding.py # FAISS + sentence embedding logic
+📁 llama_api.py # Interface to local Ollama (LLaMA 3)
+📁 employees.json # Sample employee data
+📁 README.md # You're reading this :)
+
 ##  How to Run It Locally
 
 **Step 1** – Make sure you have Python 3.8+ and [Ollama](https://ollama.com/download) installed.
