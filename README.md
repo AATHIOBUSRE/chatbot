@@ -39,6 +39,7 @@ streamlit run app.py
 
 **You can ask something like**
       Who has worked on healthcare projects?
+      
 **And the bot might reply with**
       Based on your request for candidates who have worked on healthcare projects, I'd like to recommend the following individuals:
 
